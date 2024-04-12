@@ -23,7 +23,7 @@ function PokemonItem({ name, url }) {
 
   return (
     <div className="pokemon-item">
-      <h3 className="text-xl font-bold text-red-600">{name}</h3>
+      <h3 className="text-xl font-bold text-red-400">{name}</h3>
       <img src={imageUrl} alt={name} />
     </div>
   );

@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(230, 210, 144);
+}
+.pokedex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+   }
+
